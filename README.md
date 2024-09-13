@@ -9,7 +9,6 @@ Metode yang digunakan adalah menggunakan algoritma naive bayes. *Naive Bayes* me
 <h2>Reza Mahendra</h2>
 <br>
 <h3>Tampilan Aplikasi:</h3><br>
-<p>Halaman Login</p>
 
   <p>Halaman dashboard</p>
 <img
